@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KOGTGWOX
 
 [Document4]
-DocumentPath=LDO.SchDoc
+DocumentPath=3V3_Buck_Regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
