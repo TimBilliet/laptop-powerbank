@@ -19,3 +19,5 @@ Project\ Outputs*/
 
 # Access lock file for dbLib sources
 **/*.ldb
+*.PrjPcbStructure
+
